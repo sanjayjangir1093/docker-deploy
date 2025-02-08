@@ -1,0 +1,5 @@
+bin/bash
+https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/
+https://stackoverflow.com/questions/67023441/deploy-docker-container-with-compose-github-actions
+https://medium.com/@zhamdi/setup-production-docker-and-docker-compose-with-node-js-52b7bf043b45
+https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose
